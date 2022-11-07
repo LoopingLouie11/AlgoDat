@@ -16,7 +16,7 @@ public class Testing {
 	public static void main(String[] args) {
 		
 		//needs to be added: comparison percentage wise in console; quick-sort; randomized-quick-sort
-		
+		//pls help :)
 		insertionTesting();
 		mergeTesting();
 		
